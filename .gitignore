@@ -1,3 +1,4 @@
 mask_rcnn_coco.h5
 *.h5
 lib/
+log/
