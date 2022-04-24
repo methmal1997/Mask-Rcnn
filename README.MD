@@ -7,6 +7,7 @@ create dataset file and create train and val
 include image in the files
 
 using vgg annotation anotate them and save in train and val file
+(Using VGG annotator)
 
 downlaod mask_rcnn_coco.h5 and past in the root directory
 https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5
